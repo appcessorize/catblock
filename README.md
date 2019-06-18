@@ -1,3 +1,23 @@
+
+
+
+P-block 
+
+
+P-block is being manually reviewed due to new Chrome webstore regulations regarding ad block regulations.
+
+
+If you want to install it download pblock.browser.
+
+Go to Chrome > Window > Extensions
+
+Turn on the Developer Mode switch in the top right corner.
+
+then drag the pblock.browser folder into the extensions window.
+
+Based on the CatBlock extension
+
+
 CatBlock
 ========
 [![Build Status](https://travis-ci.org/CatBlock/catblock.svg?branch=master)](https://travis-ci.org/CatBlock/catblock)
